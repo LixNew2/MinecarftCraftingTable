@@ -1,0 +1,8 @@
+{
+    "stick" : [1, "./assets/textures/stick.png"],
+    "oak_planks" : [2, "./assets/textures/oak_planks.png"],
+    "stone" : [3, "./assets/textures/cobblestone.png"],
+    "iron" : [4, "./assets/textures/iron_ingot.png"],
+    "gold" : [5, "./assets/textures/gold_ingot.png"],
+    "diamond" : [6, "./assets/textures/diamond.png"]
+}
